@@ -1,0 +1,16 @@
+{
+    "status": "completed",
+    "customer_id": "cus_YnJsU67wQiFWrBqCTOjVP",
+    "first_name": "JOHN",
+    "middle_name": null,
+    "last_name": "DOE",
+    "email_address": "example@gmail.com",
+    "phone_number": "1234567890",
+    "date_of_birth": "1979/08/24",
+    "ssn": "000000000",
+    "address": "{\"street\":\"Dummy address street\",\"city\":\"Prosper\",\"state\":\"TX\",\"zipcode\":\"00011\",\"country\":\"US\"}",
+    "verification_status": "pass",
+    "sanction_result": "clear",
+    "pep_sanction_data": null,
+    "customer_type": "regular"
+  }
